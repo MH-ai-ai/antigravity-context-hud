@@ -1,0 +1,16 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Local user state & runtime config (window position, pinned session, IPC port)
+hud_config.json
+
+# Logs & OS junk
+*.log
+.DS_Store
+Thumbs.db
